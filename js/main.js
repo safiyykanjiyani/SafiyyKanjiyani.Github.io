@@ -80,7 +80,7 @@ BRUSHED.slider = function(){
 											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/Oyms6Ct.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/MmjHQCf.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/meSRggl.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'http://dwallpaper.net/wp-content/themes/wallsave/includes/functions/saveas.php?file=http://dwallpaper.net/wp-content/uploads/2014/07/outer_space_wallpaper.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
 									],
