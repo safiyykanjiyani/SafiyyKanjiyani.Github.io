@@ -79,7 +79,7 @@ BRUSHED.slider = function(){
 		slides 					:  	[			// Slideshow Images
 											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/Oyms6Ct.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://wallpaper.pickywallpapers.com/1920x1080/mass-effect-3-london-citadel-ray.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://i.imgur.com/MmjHQCf.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/meSRggl.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
