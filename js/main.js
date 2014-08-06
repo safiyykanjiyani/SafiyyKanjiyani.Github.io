@@ -80,7 +80,7 @@ BRUSHED.slider = function(){
 											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/Oyms6Ct.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'img/slider-images/image04.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/vq1vaNu.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'http://i.imgur.com/meSRggl.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
 									],
