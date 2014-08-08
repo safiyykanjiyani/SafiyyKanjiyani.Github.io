@@ -80,7 +80,7 @@ BRUSHED.slider = function(){
 											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/Oyms6Ct.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://images.eurogamer.net/2014/usgamer/StarCitizen.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://www.dunckelfeld.de/assets/img/l/bg.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'http://www.imgbase.info/images/safe-wallpapers/video_games/star_citizen/36621-star_citizen_wallpaper.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
 									],
