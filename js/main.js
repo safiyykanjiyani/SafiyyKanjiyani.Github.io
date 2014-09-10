@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/Oyms6Ct.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://www.iconpaper.org/preview/11070703b.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/AVZcvE9.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'http://i.imgur.com/llDEg9u.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://i.imgur.com/n1FmgoX.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://i.imgur.com/QDImh6p.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://i.imgur.com/JoB62JP.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
 
