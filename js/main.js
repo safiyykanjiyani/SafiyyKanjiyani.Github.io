@@ -82,6 +82,8 @@ BRUSHED.slider = function(){
 											{image : 'http://www.iconpaper.org/preview/11070703b.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/AVZcvE9.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
+{image : 'http://i.imgur.com/AVZcvE9.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}
+
 
 									],
 									
