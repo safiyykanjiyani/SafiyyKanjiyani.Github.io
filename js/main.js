@@ -52,7 +52,7 @@ BRUSHED.slider = function(){
 		slideshow               :   1,			// Slideshow on/off
 		autoplay				:	1,			// Slideshow starts playing automatically
 		start_slide             :   1,			// Start slide (0 is random)
-		stop_loop				:	0,			// Pauses slideshow on last slide
+		stop_loop				:	0,			// Pauses slideshow on last slide : 5
 		random					: 	0,			// Randomize slide order (Ignores start slide)
 		slide_interval          :   12000,		// Length between transitions
 		transition              :   5, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
