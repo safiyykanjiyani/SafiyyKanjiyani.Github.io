@@ -55,7 +55,7 @@ BRUSHED.slider = function(){
 		stop_loop				:	0,			// Pauses slideshow on last slide
 		random					: 	0,			// Randomize slide order (Ignores start slide)
 		slide_interval          :   12000,		// Length between transitions
-		transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+		transition              :   5, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
 		transition_speed		:	300,		// Speed of transition
 		new_window				:	1,			// Image links open in new window/tab
 		pause_hover             :   0,			// Pause slideshow on hover
@@ -82,7 +82,7 @@ BRUSHED.slider = function(){
 											{image : 'http://www.iconpaper.org/preview/11070703b.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
 											{image : 'http://i.imgur.com/AVZcvE9.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
-{image : 'http://i.imgur.com/AVZcvE9.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}
+{image : 'baka', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}
 
 
 									],
