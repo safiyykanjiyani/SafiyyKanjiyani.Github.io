@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'http://i.imgur.com/llDEg9u.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/n1FmgoX.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/QDImh6p.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'http://i.imgur.com/JoB62JP.png', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'https://raw.githubusercontent.com/safiyykanjiyani/safiyykanjiyani.github.io/master/_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'https://raw.githubusercontent.com/safiyykanjiyani/safiyykanjiyani.github.io/master/_include/img/slider-images/image04.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://hdwpin.com/wp-content/uploads/2014/09/dark-forest-image.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
+											{image : 'http://www.sparkyhub.com/wp-content/uploads/2012/10/60-amazing-hd-1080p-dark-wallpaper-collection-52.jpg?0c9e3b', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
 
 
 
