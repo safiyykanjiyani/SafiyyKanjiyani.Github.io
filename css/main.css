@@ -1,7 +1,7 @@
-/* Base Styles */
+﻿/* Base Styles */
 html,button,input,select,textarea {color: #222;}
 body {font-size: 1em; line-height: 1.4;}
-::-moz-selection {background: #000; color:#fff; text-shadow: none;}
+::-moz-selection {background: #0; color:#fff; text-shadow: none;}
 ::selection {background: #000; color:#fff; text-shadow: none;}
 hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}
 img {vertical-align: middle;}
@@ -111,21 +111,21 @@ a:hover {color: #15b6a1;}
 	width: 100%;
 	height:720px;
 	overflow: hidden;
-	background-color:#15b6a1;
+	background-color:#91a7d0;
 }
 .content2 {
   position: relative;
   width: 100%;
   height:720px;
   overflow: hidden;
-  background-color:#eeeeee;
+  background-color:#fcac;
 }
 .content3 {
   position: relative;
   width: 100%;
   height:720px;
   overflow: hidden;
-  background-color:#4c4c55;
+  background-color:#f6cac9;
 }
 .content4 {
   position: relative;
@@ -153,14 +153,14 @@ a:hover {color: #15b6a1;}
   width: 100%;
   height:720px;
   overflow: hidden;
-  background-color:#ff9508;
+  background-color:#965251;
 }
 .content8 {
   position: relative;
   width: 100%;
   height:720px;
   overflow: hidden;
-  background-color:#673653;
+  background-color:#5f4b8b;
 }
 .content9 {
   position: relative;
@@ -174,7 +174,7 @@ a:hover {color: #15b6a1;}
   width: 100%;
   height:720px;
   overflow: hidden;
-  background-color:#f5f4f2;
+  background-color:#888;
 }
 .content11 {
   position: relative;
