@@ -3,13 +3,6 @@
   <head>
     <title>safiyykanjiyani | graphic designer and developer</title>
 
-<script type="text/javascript">
-<!--
-if (screen.width <= 699) {
-document.location = "http://safiyykanjiyani.github.io/skull/";
-}
-//-->
-</script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="google-site-verification" content="ZQ2EuLUQMrdcAzGaDoypu4x31-9-YhXcd96jc-91rMk" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -91,7 +84,7 @@ document.location = "http://safiyykanjiyani.github.io/skull/";
   <body>
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
       <div class="nav row">
-        <div class="large-9 first columns">
+        <div class="large-7 first columns">
           <br/>
           <p>
           <a href="#about">ABOUT</a>
@@ -100,8 +93,6 @@ document.location = "http://safiyykanjiyani.github.io/skull/";
           <a href="http://instagram.com/safiyy_kanjiyani" title="tumblr Safiyy Kanjiyani">BLOG</a>
 		<a href="http://safiyykanjiyani.github.io/old/2048/index.html">S2048</a>
 <a href="http://safiyykanjiyani.github.io/old/repo/index.html">CYDIA REPO</a>
-<a href="http://safiyykanjiyani.github.io/skull" title="tumblr Safiyy Kanjiyani">Mobile Edition</a>
-
 
 
           <a id="opening-link" href="#safiyykanjiyani">&#x2191;</a>
