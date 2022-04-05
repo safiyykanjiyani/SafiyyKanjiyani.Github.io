@@ -1,4 +1,3 @@
-// Proudly Coded by Lorenzo Bocchi
 function scrollToAnchor(id, time, offset, easing, callback) {
 	if(!$('html, body').is(':animated')) {
 		if(!easing) easing = 'linear';
